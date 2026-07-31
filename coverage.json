@@ -345,6 +345,30 @@
       "machi": 850
     },
     {
+      "area": "fukuoka_b",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 7585317,
+      "chome": 3391,
+      "machi": 1841
+    },
+    {
+      "area": "kitakyushu",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 2528931,
+      "chome": 1886,
+      "machi": 863
+    },
+    {
       "area": "nagoya",
       "files": [
         "choume_fill.geojson",
