@@ -333,6 +333,18 @@
   ],
   "display": [
     {
+      "area": "chiba",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 13969787,
+      "chome": 6675,
+      "machi": 3397
+    },
+    {
       "area": "fukuoka",
       "files": [
         "choume_fill.geojson",
@@ -355,6 +367,18 @@
       "bytes": 7585317,
       "chome": 3391,
       "machi": 1841
+    },
+    {
+      "area": "keihin",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 3620766,
+      "chome": 2839,
+      "machi": 1153
     },
     {
       "area": "kitakyushu",
@@ -393,6 +417,30 @@
       "machi": 4041
     },
     {
+      "area": "saitama_s",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 5932716,
+      "chome": 5090,
+      "machi": 2335
+    },
+    {
+      "area": "tama",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 3375740,
+      "chome": 2314,
+      "machi": 693
+    },
+    {
       "area": "tokyo23",
       "files": [
         "choume_fill.geojson",
@@ -403,6 +451,316 @@
       "bytes": 3024650,
       "chome": 3264,
       "machi": 960
+    }
+  ],
+  "areas": [
+    {
+      "bureauKey": "kyushu",
+      "district": "福岡市域",
+      "label": "福岡交通圏（福岡市・春日・大野城ほか）",
+      "boundaryKey": "fukuoka",
+      "filled": true
+    },
+    {
+      "bureauKey": "kyushu",
+      "district": "北九州市域",
+      "label": "北九州市域地区（九州）",
+      "boundaryKey": "kitakyushu",
+      "filled": true
+    },
+    {
+      "bureauKey": "kyushu",
+      "district": "福岡",
+      "label": "福岡県B地区（久留米・飯塚ほか39市町村）",
+      "boundaryKey": "fukuoka_b",
+      "filled": true
+    },
+    {
+      "bureauKey": "kyushu",
+      "district": "佐賀",
+      "label": "佐賀地区（九州）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kyushu",
+      "district": "長崎本土",
+      "label": "長崎本土地区（九州）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kyushu",
+      "district": "長崎離島",
+      "label": "長崎離島地区（九州）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kyushu",
+      "district": "熊本",
+      "label": "熊本地区（九州）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kyushu",
+      "district": "大分",
+      "label": "大分地区（九州）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kyushu",
+      "district": "宮崎",
+      "label": "宮崎地区（九州）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kyushu",
+      "district": "鹿児島",
+      "label": "鹿児島地区（九州）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kyushu",
+      "district": "奄美",
+      "label": "奄美地区（九州）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kanto",
+      "district": "特別区・武三",
+      "label": "東京23区・武三交通圏",
+      "boundaryKey": "tokyo23",
+      "filled": true
+    },
+    {
+      "bureauKey": "kanto",
+      "district": "多摩",
+      "label": "多摩地区（関東）",
+      "boundaryKey": "tama",
+      "filled": true
+    },
+    {
+      "bureauKey": "kanto",
+      "district": "東京島しょ",
+      "label": "東京島しょ地区（関東）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kanto",
+      "district": "京浜",
+      "label": "京浜地区（関東）",
+      "boundaryKey": "keihin",
+      "filled": true
+    },
+    {
+      "bureauKey": "kanto",
+      "district": "相模・鎌倉",
+      "label": "相模・鎌倉地区（関東）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kanto",
+      "district": "小田原",
+      "label": "小田原地区（関東）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kanto",
+      "district": "埼玉南部",
+      "label": "埼玉南部地区（関東）",
+      "boundaryKey": "saitama_s",
+      "filled": true
+    },
+    {
+      "bureauKey": "kanto",
+      "district": "埼玉北部",
+      "label": "埼玉北部地区（関東）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kanto",
+      "district": "千葉",
+      "label": "千葉地区（関東）",
+      "boundaryKey": "chiba",
+      "filled": true
+    },
+    {
+      "bureauKey": "kanto",
+      "district": "群馬（旧群馬県Ａ地区）",
+      "label": "群馬（旧群馬県Ａ地区）地区（関東）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kanto",
+      "district": "群馬（旧群馬県Ｂ地区）",
+      "label": "群馬（旧群馬県Ｂ地区）地区（関東）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kanto",
+      "district": "栃木",
+      "label": "栃木地区（関東）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kanto",
+      "district": "茨城",
+      "label": "茨城地区（関東）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kanto",
+      "district": "山梨（旧山梨県Ａ地区）",
+      "label": "山梨（旧山梨県Ａ地区）地区（関東）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kanto",
+      "district": "山梨（旧山梨県Ｂ地区）",
+      "label": "山梨（旧山梨県Ｂ地区）地区（関東）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kinki",
+      "district": "大阪",
+      "label": "大阪市域交通圏",
+      "boundaryKey": "osaka",
+      "filled": true
+    },
+    {
+      "bureauKey": "kinki",
+      "district": "京都市域",
+      "label": "京都市域地区（近畿）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kinki",
+      "district": "京都北部",
+      "label": "京都北部地区（近畿）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kinki",
+      "district": "神戸市域",
+      "label": "神戸市域地区（近畿）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kinki",
+      "district": "兵庫",
+      "label": "兵庫地区（近畿）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kinki",
+      "district": "奈良",
+      "label": "奈良地区（近畿）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kinki",
+      "district": "滋賀",
+      "label": "滋賀地区（近畿）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "kinki",
+      "district": "和歌山",
+      "label": "和歌山地区（近畿）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "chubu",
+      "district": "名古屋",
+      "label": "名古屋交通圏（愛知）",
+      "boundaryKey": "nagoya",
+      "filled": true
+    },
+    {
+      "bureauKey": "chubu",
+      "district": "尾張・三河",
+      "label": "尾張・三河地区（中部）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "chubu",
+      "district": "静岡",
+      "label": "静岡地区（中部）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "chubu",
+      "district": "伊豆",
+      "label": "伊豆地区（中部）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "chubu",
+      "district": "泉",
+      "label": "泉地区（中部）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "chubu",
+      "district": "岐阜（旧岐阜地区）",
+      "label": "岐阜（旧岐阜地区）地区（中部）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "chubu",
+      "district": "岐阜（旧飛騨地区）",
+      "label": "岐阜（旧飛騨地区）地区（中部）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "chubu",
+      "district": "三重",
+      "label": "三重地区（中部）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "chubu",
+      "district": "紀宝",
+      "label": "紀宝地区（中部）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "chubu",
+      "district": "福井",
+      "label": "福井地区（中部）",
+      "boundaryKey": null,
+      "filled": false
     }
   ]
 }
