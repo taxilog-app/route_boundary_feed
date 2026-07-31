@@ -333,6 +333,18 @@
   ],
   "display": [
     {
+      "area": "amami",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 1755130,
+      "chome": 374,
+      "machi": 313
+    },
+    {
       "area": "chiba",
       "files": [
         "choume_fill.geojson",
@@ -343,6 +355,18 @@
       "bytes": 13969787,
       "chome": 6675,
       "machi": 3397
+    },
+    {
+      "area": "fukui",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 7214062,
+      "chome": 2999,
+      "machi": 2334
     },
     {
       "area": "fukuoka",
@@ -369,6 +393,102 @@
       "machi": 1841
     },
     {
+      "area": "gifu",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 14589636,
+      "chome": 7835,
+      "machi": 3589
+    },
+    {
+      "area": "gunma_a",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 3568274,
+      "chome": 1941,
+      "machi": 1148
+    },
+    {
+      "area": "gunma_b",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 1695692,
+      "chome": 536,
+      "machi": 405
+    },
+    {
+      "area": "hida",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 4802735,
+      "chome": 1067,
+      "machi": 775
+    },
+    {
+      "area": "hyogo",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 12531838,
+      "chome": 5165,
+      "machi": 3821
+    },
+    {
+      "area": "ibaraki",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 10365556,
+      "chome": 4770,
+      "machi": 3372
+    },
+    {
+      "area": "izu",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 1925908,
+      "chome": 857,
+      "machi": 594
+    },
+    {
+      "area": "kagoshima",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 8929277,
+      "chome": 2134,
+      "machi": 1412
+    },
+    {
       "area": "keihin",
       "files": [
         "choume_fill.geojson",
@@ -379,6 +499,18 @@
       "bytes": 3620766,
       "chome": 2839,
       "machi": 1153
+    },
+    {
+      "area": "kiho",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 151145,
+      "chome": 18,
+      "machi": 18
     },
     {
       "area": "kitakyushu",
@@ -393,6 +525,102 @@
       "machi": 863
     },
     {
+      "area": "kobe",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 5073240,
+      "chome": 5090,
+      "machi": 1774
+    },
+    {
+      "area": "kumamoto",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 9505425,
+      "chome": 3096,
+      "machi": 2240
+    },
+    {
+      "area": "kyoto_city",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 8811552,
+      "chome": 7573,
+      "machi": 7000
+    },
+    {
+      "area": "kyoto_n",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 11437806,
+      "chome": 7368,
+      "machi": 6943
+    },
+    {
+      "area": "mie",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 9609725,
+      "chome": 3529,
+      "machi": 2450
+    },
+    {
+      "area": "miyazaki",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 5518348,
+      "chome": 2599,
+      "machi": 1361
+    },
+    {
+      "area": "nagasaki",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 15098233,
+      "chome": 4211,
+      "machi": 2017
+    },
+    {
+      "area": "nagasaki_islands",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 11314898,
+      "chome": 2939,
+      "machi": 1340
+    },
+    {
       "area": "nagoya",
       "files": [
         "choume_fill.geojson",
@@ -403,6 +631,42 @@
       "bytes": 5621629,
       "chome": 6748,
       "machi": 3517
+    },
+    {
+      "area": "nara",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 6062553,
+      "chome": 3164,
+      "machi": 2032
+    },
+    {
+      "area": "odawara",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 774693,
+      "chome": 350,
+      "machi": 179
+    },
+    {
+      "area": "oita",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 6292129,
+      "chome": 2414,
+      "machi": 1269
     },
     {
       "area": "osaka",
@@ -417,6 +681,54 @@
       "machi": 4041
     },
     {
+      "area": "owari_mikawa",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 9956384,
+      "chome": 7891,
+      "machi": 4227
+    },
+    {
+      "area": "saga",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 5936130,
+      "chome": 2297,
+      "machi": 2067
+    },
+    {
+      "area": "sagami",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 2668570,
+      "chome": 2038,
+      "machi": 725
+    },
+    {
+      "area": "saitama_n",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 2310967,
+      "chome": 1481,
+      "machi": 823
+    },
+    {
       "area": "saitama_s",
       "files": [
         "choume_fill.geojson",
@@ -427,6 +739,30 @@
       "bytes": 5932716,
       "chome": 5090,
       "machi": 2335
+    },
+    {
+      "area": "shiga",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 4439421,
+      "chome": 2823,
+      "machi": 709
+    },
+    {
+      "area": "shizuoka",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 10988221,
+      "chome": 5184,
+      "machi": 3593
     },
     {
       "area": "tama",
@@ -441,6 +777,18 @@
       "machi": 693
     },
     {
+      "area": "tochigi",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 5092057,
+      "chome": 2873,
+      "machi": 1798
+    },
+    {
       "area": "tokyo23",
       "files": [
         "choume_fill.geojson",
@@ -451,6 +799,42 @@
       "bytes": 3024650,
       "chome": 3264,
       "machi": 960
+    },
+    {
+      "area": "wakayama",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 6340260,
+      "chome": 2601,
+      "machi": 1529
+    },
+    {
+      "area": "yamanashi_a",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 2135320,
+      "chome": 899,
+      "machi": 759
+    },
+    {
+      "area": "yamanashi_b",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 1360161,
+      "chome": 465,
+      "machi": 336
     }
   ],
   "areas": [
