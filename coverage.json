@@ -345,6 +345,18 @@
       "machi": 313
     },
     {
+      "area": "asahikawa",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 6399438,
+      "chome": 4966,
+      "machi": 1880
+    },
+    {
       "area": "chiba",
       "files": [
         "choume_fill.geojson",
@@ -352,9 +364,21 @@
         "ward_frame.geojson"
       ],
       "complete": true,
-      "bytes": 13969787,
+      "bytes": 13970234,
       "chome": 6675,
       "machi": 3397
+    },
+    {
+      "area": "chitose",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 4982972,
+      "chome": 3796,
+      "machi": 1463
     },
     {
       "area": "fukui",
@@ -376,7 +400,7 @@
         "ward_frame.geojson"
       ],
       "complete": true,
-      "bytes": 3762874,
+      "bytes": 3767325,
       "chome": 2541,
       "machi": 850
     },
@@ -388,9 +412,9 @@
         "ward_frame.geojson"
       ],
       "complete": true,
-      "bytes": 7585317,
+      "bytes": 7592210,
       "chome": 3391,
-      "machi": 1841
+      "machi": 1840
     },
     {
       "area": "gifu",
@@ -427,6 +451,30 @@
       "bytes": 1695692,
       "chome": 536,
       "machi": 405
+    },
+    {
+      "area": "hakodate_a",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 874975,
+      "chome": 537,
+      "machi": 242
+    },
+    {
+      "area": "hakodate_b",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 2110560,
+      "chome": 770,
+      "machi": 533
     },
     {
       "area": "hida",
@@ -496,9 +544,9 @@
         "ward_frame.geojson"
       ],
       "complete": true,
-      "bytes": 3620766,
+      "bytes": 3619233,
       "chome": 2839,
-      "machi": 1153
+      "machi": 1152
     },
     {
       "area": "kiho",
@@ -520,9 +568,21 @@
         "ward_frame.geojson"
       ],
       "complete": true,
-      "bytes": 2528931,
+      "bytes": 2530643,
       "chome": 1886,
       "machi": 863
+    },
+    {
+      "area": "kitami",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 2592253,
+      "chome": 1362,
+      "machi": 759
     },
     {
       "area": "kobe",
@@ -547,6 +607,18 @@
       "bytes": 9505425,
       "chome": 3096,
       "machi": 2240
+    },
+    {
+      "area": "kushiro",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 3457491,
+      "chome": 2361,
+      "machi": 808
     },
     {
       "area": "kyoto_city",
@@ -597,6 +669,18 @@
       "machi": 1361
     },
     {
+      "area": "muroran",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 2688495,
+      "chome": 1188,
+      "machi": 613
+    },
+    {
       "area": "nagasaki",
       "files": [
         "choume_fill.geojson",
@@ -628,7 +712,7 @@
         "ward_frame.geojson"
       ],
       "complete": true,
-      "bytes": 5621629,
+      "bytes": 5622754,
       "chome": 6748,
       "machi": 3517
     },
@@ -643,6 +727,18 @@
       "bytes": 6062553,
       "chome": 3164,
       "machi": 2032
+    },
+    {
+      "area": "obihiro",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 2524429,
+      "chome": 2081,
+      "machi": 858
     },
     {
       "area": "odawara",
@@ -700,7 +796,7 @@
         "ward_frame.geojson"
       ],
       "complete": true,
-      "bytes": 10371372,
+      "bytes": 10373221,
       "chome": 8924,
       "machi": 4041
     },
@@ -736,9 +832,9 @@
         "ward_frame.geojson"
       ],
       "complete": true,
-      "bytes": 2668570,
-      "chome": 2038,
-      "machi": 725
+      "bytes": 2808849,
+      "chome": 2168,
+      "machi": 784
     },
     {
       "area": "saitama_n",
@@ -760,9 +856,21 @@
         "ward_frame.geojson"
       ],
       "complete": true,
-      "bytes": 5932716,
+      "bytes": 5947160,
       "chome": 5090,
       "machi": 2335
+    },
+    {
+      "area": "sapporo",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 4086892,
+      "chome": 6451,
+      "machi": 1207
     },
     {
       "area": "shiga",
@@ -796,7 +904,7 @@
         "ward_frame.geojson"
       ],
       "complete": true,
-      "bytes": 3375740,
+      "bytes": 3375984,
       "chome": 2314,
       "machi": 693
     },
@@ -820,8 +928,8 @@
         "ward_frame.geojson"
       ],
       "complete": true,
-      "bytes": 3024650,
-      "chome": 3264,
+      "bytes": 3023427,
+      "chome": 3262,
       "machi": 960
     },
     {
@@ -862,6 +970,265 @@
     }
   ],
   "areas": [
+    {
+      "bureauKey": "hokkaido",
+      "district": "札幌・小樽",
+      "label": "札幌・小樽地区（北海道）",
+      "boundaryKey": "sapporo",
+      "filled": true
+    },
+    {
+      "bureauKey": "hokkaido",
+      "district": "千歳・空知・後志",
+      "label": "千歳・空知・後志地区（北海道）",
+      "boundaryKey": "chitose",
+      "filled": true
+    },
+    {
+      "bureauKey": "hokkaido",
+      "district": "旭川",
+      "label": "旭川地区（北海道）",
+      "boundaryKey": "asahikawa",
+      "filled": true
+    },
+    {
+      "bureauKey": "hokkaido",
+      "district": "函館Ａ",
+      "label": "函館Ａ地区（北海道）",
+      "boundaryKey": "hakodate_a",
+      "filled": true
+    },
+    {
+      "bureauKey": "hokkaido",
+      "district": "函館Ｂ",
+      "label": "函館Ｂ地区（北海道）",
+      "boundaryKey": "hakodate_b",
+      "filled": true
+    },
+    {
+      "bureauKey": "hokkaido",
+      "district": "室蘭",
+      "label": "室蘭地区（北海道）",
+      "boundaryKey": "muroran",
+      "filled": true
+    },
+    {
+      "bureauKey": "hokkaido",
+      "district": "釧路",
+      "label": "釧路地区（北海道）",
+      "boundaryKey": "kushiro",
+      "filled": true
+    },
+    {
+      "bureauKey": "hokkaido",
+      "district": "帯広",
+      "label": "帯広地区（北海道）",
+      "boundaryKey": "obihiro",
+      "filled": true
+    },
+    {
+      "bureauKey": "hokkaido",
+      "district": "北見",
+      "label": "北見地区（北海道）",
+      "boundaryKey": "kitami",
+      "filled": true
+    },
+    {
+      "bureauKey": "tohoku",
+      "district": "青森",
+      "label": "青森地区（東北）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "tohoku",
+      "district": "岩手（旧岩手県A地区）",
+      "label": "岩手（旧岩手県A地区）地区（東北）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "tohoku",
+      "district": "岩手（旧岩手県Ｂ地区）",
+      "label": "岩手（旧岩手県Ｂ地区）地区（東北）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "tohoku",
+      "district": "仙台",
+      "label": "仙台地区（東北）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "tohoku",
+      "district": "宮城",
+      "label": "宮城地区（東北）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "tohoku",
+      "district": "秋田",
+      "label": "秋田地区（東北）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "tohoku",
+      "district": "山形",
+      "label": "山形地区（東北）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "tohoku",
+      "district": "福島",
+      "label": "福島地区（東北）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "hokushin",
+      "district": "新潟（旧新潟県Ａ地区）",
+      "label": "新潟（旧新潟県Ａ地区）地区（北陸信越）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "hokushin",
+      "district": "新潟（旧新潟県Ｂ地区）",
+      "label": "新潟（旧新潟県Ｂ地区）地区（北陸信越）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "hokushin",
+      "district": "長野（旧長野県Ａ地区）",
+      "label": "長野（旧長野県Ａ地区）地区（北陸信越）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "hokushin",
+      "district": "長野（旧長野県Ｂ地区）",
+      "label": "長野（旧長野県Ｂ地区）地区（北陸信越）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "hokushin",
+      "district": "富山",
+      "label": "富山地区（北陸信越）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "hokushin",
+      "district": "石川",
+      "label": "石川地区（北陸信越）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "chugoku",
+      "district": "広島市域",
+      "label": "広島市域地区（中国）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "chugoku",
+      "district": "広島",
+      "label": "広島地区（中国）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "chugoku",
+      "district": "鳥取",
+      "label": "鳥取地区（中国）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "chugoku",
+      "district": "岡山",
+      "label": "岡山地区（中国）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "chugoku",
+      "district": "山口",
+      "label": "山口地区（中国）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "chugoku",
+      "district": "旧島根県本土",
+      "label": "旧島根県本土地区（中国）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "chugoku",
+      "district": "旧島根県隠岐",
+      "label": "旧島根県隠岐地区（中国）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "shikoku",
+      "district": "香川県香川",
+      "label": "香川県香川地区（四国）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "shikoku",
+      "district": "香川県小豆島",
+      "label": "香川県小豆島地区（四国）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "shikoku",
+      "district": "徳島県市部",
+      "label": "徳島県市部地区（四国）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "shikoku",
+      "district": "徳島県郡部",
+      "label": "徳島県郡部地区（四国）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "shikoku",
+      "district": "愛媛",
+      "label": "愛媛地区（四国）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "shikoku",
+      "district": "高知県郡部",
+      "label": "高知県郡部地区（四国）",
+      "boundaryKey": null,
+      "filled": false
+    },
+    {
+      "bureauKey": "shikoku",
+      "district": "高知県高知市域",
+      "label": "高知県高知市域地区（四国）",
+      "boundaryKey": null,
+      "filled": false
+    },
     {
       "bureauKey": "kyushu",
       "district": "福岡市域",
