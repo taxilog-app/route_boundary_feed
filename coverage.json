@@ -669,6 +669,30 @@
       "machi": 1269
     },
     {
+      "area": "okinawa_islands",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 1368990,
+      "chome": 277,
+      "machi": 146
+    },
+    {
+      "area": "okinawa_main",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 3821345,
+      "chome": 1170,
+      "machi": 720
+    },
+    {
       "area": "osaka",
       "files": [
         "choume_fill.geojson",
@@ -1144,6 +1168,20 @@
       "district": "福井",
       "label": "福井地区（中部）",
       "boundaryKey": "fukui",
+      "filled": true
+    },
+    {
+      "bureauKey": "okinawa",
+      "district": "沖縄県本島",
+      "label": "沖縄県本島地区（沖縄）",
+      "boundaryKey": "okinawa_main",
+      "filled": true
+    },
+    {
+      "bureauKey": "okinawa",
+      "district": "沖縄県離島",
+      "label": "沖縄県離島地区（沖縄）",
+      "boundaryKey": "okinawa_islands",
       "filled": true
     }
   ]
