@@ -863,57 +863,57 @@
       "bureauKey": "kyushu",
       "district": "佐賀",
       "label": "佐賀地区（九州）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "saga",
+      "filled": true
     },
     {
       "bureauKey": "kyushu",
       "district": "長崎本土",
       "label": "長崎本土地区（九州）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "nagasaki",
+      "filled": true
     },
     {
       "bureauKey": "kyushu",
       "district": "長崎離島",
       "label": "長崎離島地区（九州）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "nagasaki_islands",
+      "filled": true
     },
     {
       "bureauKey": "kyushu",
       "district": "熊本",
       "label": "熊本地区（九州）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "kumamoto",
+      "filled": true
     },
     {
       "bureauKey": "kyushu",
       "district": "大分",
       "label": "大分地区（九州）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "oita",
+      "filled": true
     },
     {
       "bureauKey": "kyushu",
       "district": "宮崎",
       "label": "宮崎地区（九州）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "miyazaki",
+      "filled": true
     },
     {
       "bureauKey": "kyushu",
       "district": "鹿児島",
       "label": "鹿児島地区（九州）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "kagoshima",
+      "filled": true
     },
     {
       "bureauKey": "kyushu",
       "district": "奄美",
       "label": "奄美地区（九州）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "amami",
+      "filled": true
     },
     {
       "bureauKey": "kanto",
@@ -947,15 +947,15 @@
       "bureauKey": "kanto",
       "district": "相模・鎌倉",
       "label": "相模・鎌倉地区（関東）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "sagami",
+      "filled": true
     },
     {
       "bureauKey": "kanto",
       "district": "小田原",
       "label": "小田原地区（関東）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "odawara",
+      "filled": true
     },
     {
       "bureauKey": "kanto",
@@ -968,8 +968,8 @@
       "bureauKey": "kanto",
       "district": "埼玉北部",
       "label": "埼玉北部地区（関東）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "saitama_n",
+      "filled": true
     },
     {
       "bureauKey": "kanto",
@@ -982,43 +982,43 @@
       "bureauKey": "kanto",
       "district": "群馬（旧群馬県Ａ地区）",
       "label": "群馬（旧群馬県Ａ地区）地区（関東）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "gunma_a",
+      "filled": true
     },
     {
       "bureauKey": "kanto",
       "district": "群馬（旧群馬県Ｂ地区）",
       "label": "群馬（旧群馬県Ｂ地区）地区（関東）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "gunma_b",
+      "filled": true
     },
     {
       "bureauKey": "kanto",
       "district": "栃木",
       "label": "栃木地区（関東）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "tochigi",
+      "filled": true
     },
     {
       "bureauKey": "kanto",
       "district": "茨城",
       "label": "茨城地区（関東）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "ibaraki",
+      "filled": true
     },
     {
       "bureauKey": "kanto",
       "district": "山梨（旧山梨県Ａ地区）",
       "label": "山梨（旧山梨県Ａ地区）地区（関東）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "yamanashi_a",
+      "filled": true
     },
     {
       "bureauKey": "kanto",
       "district": "山梨（旧山梨県Ｂ地区）",
       "label": "山梨（旧山梨県Ｂ地区）地区（関東）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "yamanashi_b",
+      "filled": true
     },
     {
       "bureauKey": "kinki",
@@ -1031,50 +1031,50 @@
       "bureauKey": "kinki",
       "district": "京都市域",
       "label": "京都市域地区（近畿）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "kyoto_city",
+      "filled": true
     },
     {
       "bureauKey": "kinki",
       "district": "京都北部",
       "label": "京都北部地区（近畿）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "kyoto_n",
+      "filled": true
     },
     {
       "bureauKey": "kinki",
       "district": "神戸市域",
       "label": "神戸市域地区（近畿）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "kobe",
+      "filled": true
     },
     {
       "bureauKey": "kinki",
       "district": "兵庫",
       "label": "兵庫地区（近畿）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "hyogo",
+      "filled": true
     },
     {
       "bureauKey": "kinki",
       "district": "奈良",
       "label": "奈良地区（近畿）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "nara",
+      "filled": true
     },
     {
       "bureauKey": "kinki",
       "district": "滋賀",
       "label": "滋賀地区（近畿）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "shiga",
+      "filled": true
     },
     {
       "bureauKey": "kinki",
       "district": "和歌山",
       "label": "和歌山地区（近畿）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "wakayama",
+      "filled": true
     },
     {
       "bureauKey": "chubu",
@@ -1087,22 +1087,22 @@
       "bureauKey": "chubu",
       "district": "尾張・三河",
       "label": "尾張・三河地区（中部）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "owari_mikawa",
+      "filled": true
     },
     {
       "bureauKey": "chubu",
       "district": "静岡",
       "label": "静岡地区（中部）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "shizuoka",
+      "filled": true
     },
     {
       "bureauKey": "chubu",
       "district": "伊豆",
       "label": "伊豆地区（中部）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "izu",
+      "filled": true
     },
     {
       "bureauKey": "chubu",
@@ -1115,36 +1115,36 @@
       "bureauKey": "chubu",
       "district": "岐阜（旧岐阜地区）",
       "label": "岐阜（旧岐阜地区）地区（中部）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "gifu",
+      "filled": true
     },
     {
       "bureauKey": "chubu",
       "district": "岐阜（旧飛騨地区）",
       "label": "岐阜（旧飛騨地区）地区（中部）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "hida",
+      "filled": true
     },
     {
       "bureauKey": "chubu",
       "district": "三重",
       "label": "三重地区（中部）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "mie",
+      "filled": true
     },
     {
       "bureauKey": "chubu",
       "district": "紀宝",
       "label": "紀宝地区（中部）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "kiho",
+      "filled": true
     },
     {
       "bureauKey": "chubu",
       "district": "福井",
       "label": "福井地区（中部）",
-      "boundaryKey": null,
-      "filled": false
+      "boundaryKey": "fukui",
+      "filled": true
     }
   ]
 }
