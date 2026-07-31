@@ -1,0 +1,384 @@
+{
+  "source": "https://taxilog-app.github.io/route_boundary_feed",
+  "reverseGeocode": [
+    {
+      "code": "01",
+      "name": "北海道",
+      "ok": true,
+      "bytes": 14007069,
+      "chome": 22941
+    },
+    {
+      "code": "02",
+      "name": "青森県",
+      "ok": true,
+      "bytes": 4930514,
+      "chome": 4640
+    },
+    {
+      "code": "03",
+      "name": "岩手県",
+      "ok": true,
+      "bytes": 4882051,
+      "chome": 4036
+    },
+    {
+      "code": "04",
+      "name": "宮城県",
+      "ok": true,
+      "bytes": 5472232,
+      "chome": 5443
+    },
+    {
+      "code": "05",
+      "name": "秋田県",
+      "ok": true,
+      "bytes": 4256749,
+      "chome": 4375
+    },
+    {
+      "code": "06",
+      "name": "山形県",
+      "ok": true,
+      "bytes": 4933959,
+      "chome": 4424
+    },
+    {
+      "code": "07",
+      "name": "福島県",
+      "ok": true,
+      "bytes": 7328242,
+      "chome": 6852
+    },
+    {
+      "code": "08",
+      "name": "茨城県",
+      "ok": true,
+      "bytes": 4924914,
+      "chome": 4770
+    },
+    {
+      "code": "09",
+      "name": "栃木県",
+      "ok": true,
+      "bytes": 2443966,
+      "chome": 2873
+    },
+    {
+      "code": "10",
+      "name": "群馬県",
+      "ok": true,
+      "bytes": 2579456,
+      "chome": 2477
+    },
+    {
+      "code": "11",
+      "name": "埼玉県",
+      "ok": true,
+      "bytes": 4063746,
+      "chome": 6406
+    },
+    {
+      "code": "12",
+      "name": "千葉県",
+      "ok": true,
+      "bytes": 6788018,
+      "chome": 6675
+    },
+    {
+      "code": "13",
+      "name": "東京都",
+      "ok": true,
+      "bytes": 3978533,
+      "chome": 5971
+    },
+    {
+      "code": "14",
+      "name": "神奈川県",
+      "ok": true,
+      "bytes": 3748478,
+      "chome": 5357
+    },
+    {
+      "code": "15",
+      "name": "新潟県",
+      "ok": true,
+      "bytes": 7566297,
+      "chome": 8104
+    },
+    {
+      "code": "16",
+      "name": "富山県",
+      "ok": true,
+      "bytes": 2907768,
+      "chome": 3791
+    },
+    {
+      "code": "17",
+      "name": "石川県",
+      "ok": true,
+      "bytes": 3272093,
+      "chome": 3592
+    },
+    {
+      "code": "18",
+      "name": "福井県",
+      "ok": true,
+      "bytes": 3322631,
+      "chome": 2999
+    },
+    {
+      "code": "19",
+      "name": "山梨県",
+      "ok": true,
+      "bytes": 1580913,
+      "chome": 1364
+    },
+    {
+      "code": "20",
+      "name": "長野県",
+      "ok": true,
+      "bytes": 4232584,
+      "chome": 3557
+    },
+    {
+      "code": "21",
+      "name": "岐阜県",
+      "ok": true,
+      "bytes": 7069974,
+      "chome": 7835
+    },
+    {
+      "code": "22",
+      "name": "静岡県",
+      "ok": true,
+      "bytes": 5210027,
+      "chome": 5184
+    },
+    {
+      "code": "23",
+      "name": "愛知県",
+      "ok": true,
+      "bytes": 7785686,
+      "chome": 14639
+    },
+    {
+      "code": "24",
+      "name": "三重県",
+      "ok": true,
+      "bytes": 4492918,
+      "chome": 3547
+    },
+    {
+      "code": "25",
+      "name": "滋賀県",
+      "ok": true,
+      "bytes": 2777402,
+      "chome": 2823
+    },
+    {
+      "code": "26",
+      "name": "京都府",
+      "ok": true,
+      "bytes": 6366148,
+      "chome": 9568
+    },
+    {
+      "code": "27",
+      "name": "大阪府",
+      "ok": true,
+      "bytes": 5374571,
+      "chome": 8924
+    },
+    {
+      "code": "28",
+      "name": "兵庫県",
+      "ok": true,
+      "bytes": 8496318,
+      "chome": 10020
+    },
+    {
+      "code": "29",
+      "name": "奈良県",
+      "ok": true,
+      "bytes": 2846113,
+      "chome": 3164
+    },
+    {
+      "code": "30",
+      "name": "和歌山県",
+      "ok": true,
+      "bytes": 2965364,
+      "chome": 2601
+    },
+    {
+      "code": "31",
+      "name": "鳥取県",
+      "ok": true,
+      "bytes": 2009941,
+      "chome": 2501
+    },
+    {
+      "code": "32",
+      "name": "島根県",
+      "ok": true,
+      "bytes": 2733408,
+      "chome": 1710
+    },
+    {
+      "code": "33",
+      "name": "岡山県",
+      "ok": true,
+      "bytes": 4886949,
+      "chome": 5327
+    },
+    {
+      "code": "34",
+      "name": "広島県",
+      "ok": true,
+      "bytes": 5867176,
+      "chome": 4503
+    },
+    {
+      "code": "35",
+      "name": "山口県",
+      "ok": true,
+      "bytes": 5518786,
+      "chome": 4290
+    },
+    {
+      "code": "36",
+      "name": "徳島県",
+      "ok": true,
+      "bytes": 1778052,
+      "chome": 1646
+    },
+    {
+      "code": "37",
+      "name": "香川県",
+      "ok": true,
+      "bytes": 1610063,
+      "chome": 976
+    },
+    {
+      "code": "38",
+      "name": "愛媛県",
+      "ok": true,
+      "bytes": 3713171,
+      "chome": 3148
+    },
+    {
+      "code": "39",
+      "name": "高知県",
+      "ok": true,
+      "bytes": 3222128,
+      "chome": 2301
+    },
+    {
+      "code": "40",
+      "name": "福岡県",
+      "ok": true,
+      "bytes": 7134928,
+      "chome": 7818
+    },
+    {
+      "code": "41",
+      "name": "佐賀県",
+      "ok": true,
+      "bytes": 2672515,
+      "chome": 2297
+    },
+    {
+      "code": "42",
+      "name": "長崎県",
+      "ok": true,
+      "bytes": 6989705,
+      "chome": 4211
+    },
+    {
+      "code": "43",
+      "name": "熊本県",
+      "ok": true,
+      "bytes": 4322176,
+      "chome": 3096
+    },
+    {
+      "code": "44",
+      "name": "大分県",
+      "ok": true,
+      "bytes": 3191792,
+      "chome": 2414
+    },
+    {
+      "code": "45",
+      "name": "宮崎県",
+      "ok": true,
+      "bytes": 2861289,
+      "chome": 2599
+    },
+    {
+      "code": "46",
+      "name": "鹿児島県",
+      "ok": true,
+      "bytes": 3964987,
+      "chome": 2134
+    },
+    {
+      "code": "47",
+      "name": "沖縄県",
+      "ok": true,
+      "bytes": 2184293,
+      "chome": 1447
+    }
+  ],
+  "display": [
+    {
+      "area": "fukuoka",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 3762874,
+      "chome": 2541,
+      "machi": 850
+    },
+    {
+      "area": "nagoya",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 5621629,
+      "chome": 6748,
+      "machi": 3517
+    },
+    {
+      "area": "osaka",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 10371372,
+      "chome": 8924,
+      "machi": 4041
+    },
+    {
+      "area": "tokyo23",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 3024650,
+      "chome": 3264,
+      "machi": 960
+    }
+  ]
+}
