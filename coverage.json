@@ -489,6 +489,18 @@
       "machi": 775
     },
     {
+      "area": "hiroshima_city",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 3346148,
+      "chome": 1610,
+      "machi": 706
+    },
+    {
       "area": "hyogo",
       "files": [
         "choume_fill.geojson",
@@ -729,6 +741,18 @@
       "machi": 2032
     },
     {
+      "area": "niigata_a",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 2298615,
+      "chome": 2275,
+      "machi": 1154
+    },
+    {
       "area": "obihiro",
       "files": [
         "choume_fill.geojson",
@@ -763,6 +787,18 @@
       "bytes": 6292129,
       "chome": 2414,
       "machi": 1269
+    },
+    {
+      "area": "okayama",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 10484943,
+      "chome": 5327,
+      "machi": 4264
     },
     {
       "area": "okinawa_islands",
@@ -871,6 +907,18 @@
       "bytes": 4086892,
       "chome": 6451,
       "machi": 1207
+    },
+    {
+      "area": "sendai",
+      "files": [
+        "choume_fill.geojson",
+        "machi_frame.geojson",
+        "ward_frame.geojson"
+      ],
+      "complete": true,
+      "bytes": 1472087,
+      "chome": 1038,
+      "machi": 407
     },
     {
       "area": "shiga",
